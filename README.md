@@ -1,2 +1,3 @@
-# La_historia_de_los_videojuegos
-en este repositerio se llevara a cabo la actividad de servicios en la nube basándonos en la historia y evolución que han llevado los videojuegos con el paso de los años.
+# La Historia de los Videojuegos
+Este repositorio contendrá una wiki sobre la historia de los videojuegos, desde sus inicios hasta la actualidad.
+Aquí planeo documentar las diferentes épocas, consolas, juegos importantes y la evolución de esta fascinante industria.
